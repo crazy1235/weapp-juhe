@@ -1,7 +1,9 @@
 {
   "pages":[
+    "pages/welcome/welcome",
     "pages/index/index",
-    "pages/logs/logs"
+    "pages/logs/logs",
+    "pages/component/stars/stars"
   ],
   "window":{
     "backgroundTextStyle":"light",
